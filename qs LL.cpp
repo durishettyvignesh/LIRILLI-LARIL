@@ -46,7 +46,7 @@ void Dequeue()
     else
     {
         printf("%d has been Dequeued from the Queue",Front->data);
-        Front = Front->next;
+        Front = Front -> next;
     }
 }
 void Peek()
