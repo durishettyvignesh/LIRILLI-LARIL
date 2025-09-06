@@ -7,6 +7,7 @@ struct node{
 }*top = NULL; 
 
 struct node*stack = NULL;
+// comment added
 
 void pop(int data)
 {
