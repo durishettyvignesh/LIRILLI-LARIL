@@ -8,3 +8,4 @@ f2.close()
 f2.open('f1.txt','r')
 c =f2.read()    
 print(c)
+0
